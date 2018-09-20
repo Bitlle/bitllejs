@@ -1,5 +1,7 @@
 # bitllejs JavaScript Api
-Frontend package to work on the network [bitlle.network](https://bitlle.network) backend api.
+version 0.1.3
+
+Frontend package to work on the  [bitlle.network](https://bitlle.network) backend api.
 ## Installation
 ```
 npm i bitllejs
