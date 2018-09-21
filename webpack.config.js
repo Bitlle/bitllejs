@@ -1,6 +1,6 @@
 var path = require('path');
 var config = {
-    entry: './lib/bitllejs.js',
+    entry: './index.js',
     output: {
         path: path.resolve(__dirname,'./dist/'),
         filename: 'bitllejs.js'
