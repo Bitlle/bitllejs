@@ -1,6 +1,6 @@
 {
   "name": "bitllejs",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Frontend package to work on the network bitlle.network",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bitlle/bitllejs.git"
+    "url": "git+https://github.com/bitllenetwork/bitllejs.git"
   },
   "author": "deniskashargin, ale xau",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/Bitlle/bitllejs/issues"
+    "url": "https://github.com/bitllenetwork/bitllejs/issues"
   },
   "bundleDependencies": [],
 
@@ -26,7 +26,7 @@
     "left-pad": "1.3.x",
     "web3": "0.19.x"
   },
-  "homepage": "https://github.com/Bitlle/bitllejs#readme",
+  "homepage": "https://github.com/bitllenetwork/bitllejs#readme",
   "devDependencies": {
     "webpack-cli": "^3.1.0",
     "webpack": "^4.19.1"
