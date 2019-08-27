@@ -1,6 +1,6 @@
 {
   "name": "bitllejs",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "Frontend package to work on the network Bitlle Network",
   "main": "index.js",
   "scripts": {
