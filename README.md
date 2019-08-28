@@ -1,6 +1,6 @@
 # bitllejs JavaScript Api
 
-version 1.3.4
+version 1.3.5
 
 Frontend package to work on the  [Bitlle Network](https://bitlle.network) backend api.
 
